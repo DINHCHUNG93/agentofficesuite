@@ -1,4 +1,71 @@
 
+🚀 Nguồn mở thay thế Claude for Word với giao diện đẹp hỗ trợ mạnh Local AI tiết kiệm chi phí Token đối với các bài toán soạn thảo
+
+🔥 AOSE là gì?
+
+AOSE là một office suite mã nguồn mở, nơi:
+
+* AI agent = first-class collaborator (đồng nghiệp thật)
+* Có thể:
+    * @mention trong tài liệu
+    * chỉnh sửa trực tiếp
+    * để lại lịch sử thay đổi
+
+👉 Không còn là chatbot, mà là co-worker thực thụ
+
+⚡ Điểm khác biệt lớn nhất
+
+* Agent edit trực tiếp trong Docs / Database / Slides / Flowchart
+* Mọi thay đổi đều có:
+    * version history
+    * timestamp
+    * audit rõ ràng
+
+Theo cộng đồng, hệ thống còn:
+
+“auto-snapshot trước mỗi lần agent chỉnh sửa và có thể rollback ngay”  ￼
+
+👉 Nếu agent làm sai → quay lại 1 click
+
+⚡ Tính năng nổi bật
+
+* Docs editor: bảng, ảnh, Mermaid, link chéo
+* Database: quan hệ, filter, Kanban, form
+* Slides: tạo slide + export PPT
+* Flowchart: vẽ diagram phức tạp
+
+👉 Agent có thể:
+
+* viết nội dung
+* chỉnh layout
+* query data
+* vẽ sơ đồ
+
+🤖 Cách hoạt động
+
+* Dựa trên MCP (Model Communication Protocol)
+* Kết nối agent qua CLI hoặc chat (Telegram, Slack…)
+* @mention → agent nhận full context và xử lý ngay
+
+👉 Không cần copy-paste context thủ công
+
+💡 Use case thực tế
+
+* Viết tài liệu + chỉnh sửa cùng AI
+* Phân tích dữ liệu + update database
+* Tạo slide tự động
+* Vẽ flowchart / system design
+
+👉 Tất cả trong một workspace duy nhất
+
+⚙️ Điểm mạnh
+
+* Local-first → dữ liệu nằm trên máy
+* Open-source (Apache 2.0)
+* Tương thích nhiều agent (Claude, Codex, Gemini…)
+
+#tinix #AI #Agent #Productivity
+
 ![AOSE](docs/heropic.jpg)
 
 <u>English</u> | [中文](./README.cn.md) | [日本語](./README.ja.md) | [X](https://x.com/manpoai)
